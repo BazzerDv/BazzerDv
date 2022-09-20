@@ -1,4 +1,3 @@
-<table>
 <thead>
 <tr>
 <td>
@@ -8,7 +7,6 @@
 </td>
 </tr>
 </thead>
-</table>
 - 👋 Hi, I’m @BazzerDv
 - 👀 I’m interested in coding and don't worry, sport
 - 🌱 I’m currently learning javascript and html
