@@ -8,7 +8,7 @@
 </td>
 <td>
       
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kvaps&bg_color=30,1d2c15,505b42&title_color=CEB950&text_color=fff&icon_color=CEB950)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BazzerDv&bg_color=30,1d2c15,505b42&title_color=CEB950&text_color=fff&icon_color=CEB950)
  
 </td>
 </tr>
