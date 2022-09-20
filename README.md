@@ -1,3 +1,6 @@
+![Contribution Stats](https://github-readme-stats.vercel.app/api?
+username=BazzerDv&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&bg_color=30,1d2c15,505b42&title_color=CEB950&text_color=fff&icon_color=CEB950)
+
 - 👋 Hi, I’m @BazzerDv
 - 👀 I’m interested in coding and don't worry, sport
 - 🌱 I’m currently learning javascript and html
