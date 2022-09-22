@@ -8,7 +8,7 @@
 <td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazzerDv&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  </td>
+</td>
 </tr>
 </thead>
 - 👋 Hi, I’m @BazzerDv
