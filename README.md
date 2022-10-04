@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=BazzerDv&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&bg_color=30,1d2c15,505b42&title_color=CEB950&text_color=fff&icon_color=CEB950)
+![BazzerDv's GitHub stats](https://github-readme-stats.vercel.app/api?username=BazzerDv&show_icons=true)
   
 </td>
 
