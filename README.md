@@ -6,8 +6,8 @@
   
 </td>
 <td>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazzerDv)]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazzerDv)](https://github.com/BazzerDv/github-readme-stats)
+  </td>
 </tr>
 </thead>
 - 👋 Hi, I’m @BazzerDv
