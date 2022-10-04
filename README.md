@@ -5,9 +5,7 @@
 ![BazzerDv's GitHub stats](https://github-readme-stats.vercel.app/api?username=BazzerDv&show_icons=true)
   
 </td>
-<td>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazzerDv)
-  </td>
 </tr>
 </thead>
 - 👋 Hi, I’m @BazzerDv
