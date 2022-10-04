@@ -6,7 +6,7 @@
   
 </td>
 <td>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazzerDv)](https://github.com/BazzerDv/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazzerDv)
   </td>
 </tr>
 </thead>
