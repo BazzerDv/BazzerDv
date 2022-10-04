@@ -2,10 +2,9 @@
 <tr>
 <td>
 
-![BazzerDv's GitHub stats](https://github-readme-stats.vercel.app/api?username=BazzerDv&show_icons=true)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazzerDv)](https://github.com/BazzerDv/github-readme-stats)
 </td>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazzerDv)
+
 </tr>
 </thead>
 - 👋 Hi, I’m @BazzerDv
