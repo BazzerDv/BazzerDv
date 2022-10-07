@@ -1,7 +1,6 @@
 <thead>
 
-![BazzerDv's GitHub stats](https://github-readme-stats.vercel.app/api?username=BazzerDv&show_icons=true)
-
+![BazzerDv's GitHub stats](https://github-readme-stats.vercel.app/api?username=BazzerDv)
 </thead>
 - 👋 Hi, I’m @BazzerDv
 
