@@ -2,7 +2,6 @@
 
 ![BazzerDv's GitHub stats](https://github-readme-stats.vercel.app/api?username=BazzerDv&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazzerDv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </thead>
 - 👋 Hi, I’m @BazzerDv
 
