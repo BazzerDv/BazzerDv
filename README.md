@@ -1,6 +1,6 @@
  <thead>
 
-![BazzerDv's GitHub stats](https://github-readme-stats.vercel.app/api?username=BazzerDv&include_all_commits=true&custom_title=%E2%9A%A1%20BazzerDv%27s%20Github%20Stats&bg_color=-60,000000,000370,000000&title_color=b026ff&text_color=fefefe)
+![BazzerDv's GitHub stats](https://github-readme-stats.vercel.app/api?username=BazzerDv&include_all_commits=true&custom_title=%E2%9A%A1%20BazzerDv%27s%20Github%20Stats&border_color=000000&bg_color=-60,000000,000370,000000&title_color=b026ff&text_color=fefefe)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazzerDv&bg_color=-60,000000,000370,000000&title_color=b026ff&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
 
 </thead>
