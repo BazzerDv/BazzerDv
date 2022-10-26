@@ -7,7 +7,7 @@
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BazzerDv&bg_color=-60,000000,000370,000000&title_color=b026ff&text_color=fefefe&layout=compact)](https://github.com/BazzerDv)--->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BazzerDv&repo=quickclick&bg_color=-60,000000,000370,000000&title_color=b026ff&text_color=fefefe)](https://github.com/BazzerDv/quickclick)
 <!---[](https://so-stats-x7rev94wr-bazzerdv.vercel.app?user=20138963)--->
-[![My Stack Overflow Stats](https://so-stats-x7rev94wr-bazzerdv.vercel.app/api?user=20138963)](https://github.com/kurt-liao/so-stats)
+[![My Stack Overflow Stats](https://so-stats-cz2ejpgzz-bazzerdv.vercel.app/api?user=20138963)](https://stackoverflow.com/users/20138963/bazzerdv?tab=topactivity)
 
 </thead>
 
