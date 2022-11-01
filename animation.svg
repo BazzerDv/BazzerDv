@@ -1,7 +1,36 @@
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
 	 width="600px" height="100px" viewBox="0 0 600 100">
-<style type="text/css">
+<style>
+	@import "compass/css3";
 
+@import url(https://fonts.googleapis.com/css?family=Share+Tech+Mono);
+
+
+body{
+  background: black;
+}
+
+.info {
+  color: white;
+  font:1em/1 sans-serif;
+  text-align: center;
+}
+
+.info a{
+  color: white;
+}
+
+svg{
+  width: 600px;
+  height: 120px;
+  display: block;
+  position: relative;
+  overflow: hidden; 
+  margin: 0 auto;
+  background: black;
+}
+	</style>
+<style type="text/css">
 <![CDATA[
 
 	text {
