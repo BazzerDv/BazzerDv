@@ -1,5 +1,5 @@
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
-	 width="600px" height="100px" viewBox="0 0 600 100">
+	 width="900px" height="150px" viewBox="0 0 660 100">
 <style>
 	@import "compass/css3";
 
@@ -21,8 +21,8 @@ body{
 }
 
 svg{
-  width: 600px;
-  height: 120px;
+  width: 100%;
+  height: 100%;
   display: block;
   position: relative;
   overflow: hidden; 
@@ -36,8 +36,8 @@ svg{
 	text {
 		filter: url(#filter);
 		fill: white;
-    	font-family: 'Share Tech Mono', sans-serif;
-    	font-size: 100px;
+    	font-family: monospace;
+    	font-size: 150px;
 		-webkit-font-smoothing: antialiased;
 		-moz-osx-font-smoothing: grayscale;
      		}
@@ -121,6 +121,6 @@ svg{
 	</defs>
 
 <g>
-	<text x="0" y="100">SVG GLITCH</text>
+	<text x="0" y="100">BazzerDv</text>
 </g>
 </svg>
