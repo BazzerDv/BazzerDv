@@ -64,6 +64,7 @@ div {
   }
 }
   </style>
+  <g>
   <ul>
   <li>
     <div>B</div>
@@ -90,3 +91,5 @@ div {
     <div>v</div>
   </li>
 </ul>
+  </g>
+</svg>
