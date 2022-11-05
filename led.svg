@@ -1,29 +1,16 @@
-<svg width="100%" height="100%">
-  <style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
-
-body {
-  padding: 0;
-  margin: 0; 
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+      
+body { 
   height: 100vh;
   background: #18191f;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Century Gothic';
+  font-weight: 900;
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-ul {
-  position: relative;
-  display: flex;
-}
-
-li {
-  list-style: none;
-}
-
-label {
-  position: relative;
 }
 
 
@@ -34,11 +21,9 @@ div {
   background: #18191f;
   color: #555;
   display: flex;
-  display: flex;
   justify-content: center;
   align-items: center;
   font-size: 46px;
-  cursor: pointer;
   margin: 0 4px;
   border-radius: 20px;
   box-shadow: -1px -1px 4px rgba(255, 255, 255, 0.05),
@@ -63,33 +48,17 @@ div {
     filter: hue-rotate(360deg);
   }
 }
-  </style>
-  <foreignObject x='0' y='0' width='100%' height='100%'>
-  <ul>
-  <li>
+      </style>
+        
     <div>B</div>
-  </li>
-  <li>
     <div>a</div>
-  </li>
-  <li>
     <div>z</div>
-  </li>
-  <li>
     <div>z</div>
-  </li>
-  <li>
     <div>e</div>
-  </li>
-  <li>
     <div>r</div>
-  </li>
-  <li>
     <div>D</div>
-  </li>
-  <li>
     <div>v</div>
-  </li>
-</ul>
-  </foreignObject>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
 </svg>
