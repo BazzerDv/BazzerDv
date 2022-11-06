@@ -45,7 +45,6 @@ div {
     <div>r</div>
     <div>D</div>
     <div>v</div>
-        <!-- Other embed HTML element/text into SVG -->
     </div>
 </foreignObject>
 </svg>
