@@ -1,6 +1,6 @@
 <svg width="500" height="70" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="500" height="70">
-    <div xmlns="http://www.w3.org/1999/xhtml" style='margin:0px; border-radius:0px;'>
+    <div xmlns="http://www.w3.org/1999/xhtml" style='margin:0px; border-radius:5px;'>
       <style>
 
 div {
