@@ -2,9 +2,12 @@
 <foreignObject width="500" height="70">
     <div xmlns="http://www.w3.org/1999/xhtml" style='margin:0px; border-radius:5px;'>
       <style>
-
+@font-face {
+  font-family: 'Poppins';
+  src: url('Poppins-Black.woff2')
+}
 div {
-  font-family: 'Century Gothic';
+  font-family: 'Poppins';
   font-weight: 900;
   height: 70px;
   width: 500px;
